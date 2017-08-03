@@ -1,0 +1,7 @@
+#folders#
+/logs
+/target
+
+#files#
+*.mv.db
+assignment.md
